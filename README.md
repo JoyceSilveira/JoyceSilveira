@@ -9,13 +9,14 @@
 </ul>
 </br>
 
-<h3>🙋🏼‍♀️ Redes </h3>
+<h3>🙋🏼‍♀️ Redes: </h3>
 <a href="https://www.linkedin.com/in/joyce-silveira-dos-santos/">
   <img align="left" alt="Linkedin Joyce Silveira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/JoyceSilveira">
   <img align="left" alt="GitHub Joyce Silveira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+</br>
 </br>
 
 <h3>🖥️ Linguagens e ferramentas: </h3>
