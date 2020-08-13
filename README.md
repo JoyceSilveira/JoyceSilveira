@@ -1,5 +1,5 @@
 # Olá, bem vindo(a) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"/>
-<br/>
+</br>
 
 <h3> ✨Apresentação✨ </h3>
 <ul>
@@ -16,7 +16,7 @@
 <a href="https://github.com/JoyceSilveira">
   <img align="left" alt="GitHub Joyce Silveira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br/>
+</br>
 
 <h3>🖥️ Linguagens e ferramentas: </h3>
 <p>
