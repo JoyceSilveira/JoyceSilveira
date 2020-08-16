@@ -5,7 +5,7 @@
 <ul>
   <li>🎓 Estudante de Análise e desenvolvimento de sistemas na FATEC Mogi das Cruzes</li>
   <li>💼 Estágiaria de desenvolvimento web com Python na Secretaria de Licenciamento de SP</li>
-  <li>🥰 Estudando (e me apaixonando) por ciência de dados</li>
+  <li>🥰 Estudando (e me apaixonando) por inteligência artificial</li>
 </ul>
 </br>
 
