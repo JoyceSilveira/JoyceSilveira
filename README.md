@@ -25,6 +25,5 @@
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/javascript.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/html.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/css.png" />
-  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/bootstrap.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/gitbash.png" />
 </p>
