@@ -26,5 +26,5 @@
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/html.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/css.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/gitbash.png" />
-  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/react.png" />
+  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/react-logo.png" />
 </p>
