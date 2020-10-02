@@ -4,7 +4,7 @@
 <h3> ✨Apresentação✨ </h3>
 <ul>
   <li>🎓 Estudante de Análise e desenvolvimento de sistemas na FATEC Mogi das Cruzes</li>
-  <li>💼 Estágiaria de desenvolvimento web com Python na Secretaria de Licenciamento de SP</li>
+  <li>💼 Estagiária de desenvolvimento web com Python na Secretaria de Licenciamento de SP</li>
   <li>🥰 Estudando (e me apaixonando) por ciência de dados e inteligência artificial</li>
 </ul>
 </br>
