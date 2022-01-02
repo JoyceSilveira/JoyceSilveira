@@ -20,11 +20,11 @@
 </br>
 
 <h3>🖥️ Linguagens e ferramentas: </h3>
-<p>
+<p style="display:flex; aling-items:center;">
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/python.png" />
-  <img width="42px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/matplotlib.svg" />
-  <img width="42px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/numpy.png" />
-  <img width="42px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/pandas.png" />
+  <img width="68px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/matplotlib.svg" />
+  <img width="68px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/numpy.png" />
+  <img width="68px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/pandas.png" />
   <img width="42px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/sql_icon.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/html.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/css.png" />
