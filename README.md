@@ -4,7 +4,7 @@
 <h3> ✨Apresentação✨ </h3>
 <ul>
   <li>🎓 Estudante de Análise e desenvolvimento de sistemas na FATEC Mogi das Cruzes</li>
-  <li>💼 Estagiária de desenvolvimento web com Python na Secretaria de Licenciamento de SP</li>
+  <li>💼 Estagiária de análise de dados no Itaú Unibanco</li>
   <li>🥰 Estudando (e me apaixonando) por ciência de dados e inteligência artificial</li>
 </ul>
 </br>
@@ -22,9 +22,7 @@
 <h3>🖥️ Linguagens e ferramentas: </h3>
 <p>
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/python.png" />
-  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/javascript.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/html.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/css.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/gitbash.png" />
-  <img width="42px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/react-logo.png" />
 </p>
