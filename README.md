@@ -22,6 +22,10 @@
 <h3>🖥️ Linguagens e ferramentas: </h3>
 <p>
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/python.png" />
+  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/matplotlib.svg" />
+  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/numpy.png" />
+  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/pandas.png" />
+  <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/sql_icon.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/html.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/css.png" />
   <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/gitbash.png" />
