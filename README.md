@@ -1,11 +1,11 @@
 # Olá, bem vindo(a) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"/>
 </br>
 
-<h3> ✨Apresentação✨ </h3>
+<h3> ✨Apresentação </h3>
 <ul>
-  <li>🎓 Estudante de Análise e desenvolvimento de sistemas na FATEC Mogi das Cruzes</li>
-  <li>💼 Estagiária de análise de dados no Itaú Unibanco</li>
-  <li>🥰 Estudando (e me apaixonando) por ciência de dados e inteligência artificial</li>
+  <li>- Tecnóloga em Análise e desenvolvimento de sistemas</li>
+  <li>- Analista de dados no Itaú Unibanco</li>
+  <li>- Estudando (e me apaixonando) por ciência de dados e inteligência artificial</li>
 </ul>
 </br>
 
@@ -19,16 +19,11 @@
 </br>
 </br>
 
-<h3>🖥️ Linguagens e ferramentas: </h3>
+<h3>🖥️ Tecnologias: </h3>
 <p>
   <div style="display:flex; aling-items:center;">
       <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/python.png" />
-      <img width="68px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/matplotlib.svg" />
-      <img width="72px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/numpy.png" />
-      <img width="72px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/pandas.png" />
       <img width="42px" src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/sql_icon.png" />
-      <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/html.png" />
-      <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/css.png" />
       <img src="https://github.com/JoyceSilveira/JoyceSilveira/blob/master/Icones/gitbash.png" />
   </div>
 </p>
